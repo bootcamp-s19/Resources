@@ -1,6 +1,6 @@
 # Resources
 All resources for Spring 2019 Bootcamp
-
+<!--
 ## Documentation
 
 ## Practice Code
@@ -10,3 +10,4 @@ All resources for Spring 2019 Bootcamp
 ## Workflow Tools
 
 ## Software Stack
+-->
