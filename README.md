@@ -15,6 +15,7 @@ All resources for Spring 2019 Bootcamp
 
 ## Best Practices
 [Markdown Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+[GitHub Best Practices](https://resources.github.com/videos/github-best-practices/)
 
 ## Workflow Tools
 
