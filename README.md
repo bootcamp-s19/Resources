@@ -11,7 +11,7 @@ All resources for Spring 2019 Bootcamp
 
 ## Practice Code
 
-## Learning Tools
+## Learning Tools/Demos
 
 ## Best Practices
 * [Markdown Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
@@ -19,7 +19,9 @@ All resources for Spring 2019 Bootcamp
 
 ## Workflow Tools
 
-## Software Stack
+## Bootcamp Software Stack
+
+## Videos and other "Outside of Class" Resources
 
 ## More Questions?
 
