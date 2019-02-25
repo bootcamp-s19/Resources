@@ -28,8 +28,11 @@ All resources for the Spring 2019 Bootcamp
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## PDFs
+* [The Pragmatic Programmer](https://github.com/bootcamp-s19/Resources/blob/master/docs/1999%20-%20The%20Pragmatic%20Programmer.pdf)
+* [Scrum Guide](https://github.com/bootcamp-s19/Resources/blob/master/docs/2017-Scrum-Guide-US.pdf)
 
 ## Images
+* [5D Design Process](https://github.com/bootcamp-s19/Resources/blob/master/docs/img/5D-Design-Process.jpg)
 
 ## Videos, Articles, and other "Outside of Class" Resources
 * [Why Learning to Code is Hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
