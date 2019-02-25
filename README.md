@@ -13,17 +13,17 @@ All resources for the Spring 2019 Bootcamp
 * [GitLab Courses](https://lab.github.com/courses)
 * [Visualize Git Branching](https://learngitbranching.js.org/)
 
-## Best Practices
-* [Developer Best Practices](https://www.tutorialspoint.com/developers_best_practices/index.htm)
-* [Markdown Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [GitHub Best Practices](https://resources.github.com/videos/github-best-practices/)
-
 ## Workflow / Developer Tools
 * [GitHub](https://github.com)
 * [VSCode](https://code.visualstudio.com/)
 * [MAMP](https://www.mamp.info/en/)
 * [Chrome Developer Tools](https://www.youtube.com/watch?v=nOEw9iiopwI)
 * [Pattern Lab](https://patternlab.io/)
+
+## Best Practices
+* [Developer Best Practices](https://www.tutorialspoint.com/developers_best_practices/index.htm)
+* [Markdown Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+* [GitHub Best Practices](https://resources.github.com/videos/github-best-practices/)
 
 ## Documentation
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
