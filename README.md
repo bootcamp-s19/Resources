@@ -8,6 +8,8 @@ All resources for the Spring 2019 Bootcamp
 
 ## Practice Code / Learning Tools / Demos
 * [HackerRank](http://hackerrank.com/)
+* [GitLab Courses](https://lab.github.com/courses)
+* [Visualize Git Branching](https://learngitbranching.js.org/)
 
 ## Best Practices
 * [Developer Best Practices](https://www.tutorialspoint.com/developers_best_practices/index.htm)
