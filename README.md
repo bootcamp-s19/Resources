@@ -27,9 +27,17 @@ All resources for the Spring 2019 Bootcamp
 ## Documentation
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+## PDFs
+
+## Images
+
 ## Videos, Articles, and other "Outside of Class" Resources
 * [Why Learning to Code is Hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
 * [Luke Murray's Blog - How To Learn Better](http://lukecmurray.tumblr.com/post/150290375977/how-to-learn-better-my-advice-after-26-years-in)
+* [How Discovery will make your Software Development Project a Success](https://www.alphalogicinc.com/blog/how-discovery-will-make-your-software-development-project-a-success/)
+* [Learn about Scrum](https://www.scrumalliance.org/learn-about-scrum)
+* [Scrum Values](https://www.scrumalliance.org/learn-about-scrum/scrum-values)
+
 
 ## Bootcamp Software Stack
 * [Bootstrap 4](https://getbootstrap.com/)
