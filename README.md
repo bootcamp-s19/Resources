@@ -17,6 +17,7 @@ All resources for the Spring 2019 Bootcamp
 ## Workflow / Developer Tools
 * [GitHub](https://github.com)
 * [VSCode](https://code.visualstudio.com/)
+* [MAMP](https://www.mamp.info/en/)
 * [Chrome Developer Tools](https://www.youtube.com/watch?v=nOEw9iiopwI)
 
 ## Documentation
