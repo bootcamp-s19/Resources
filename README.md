@@ -9,6 +9,7 @@ All resources for the Spring 2019 Bootcamp
 ## Practice Code / Learning Tools / Demos
 * [HackerRank](http://hackerrank.com/)
 * [Coderbyte](https://coderbyte.com/)
+* [Harvard Code Lecture Videos](https://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH)
 * [GitLab Courses](https://lab.github.com/courses)
 * [Visualize Git Branching](https://learngitbranching.js.org/)
 
@@ -30,19 +31,23 @@ All resources for the Spring 2019 Bootcamp
 ## PDFs
 * [The Pragmatic Programmer](https://github.com/bootcamp-s19/Resources/blob/master/docs/1999%20-%20The%20Pragmatic%20Programmer.pdf)
 * [Scrum Guide](https://github.com/bootcamp-s19/Resources/blob/master/docs/2017-Scrum-Guide-US.pdf)
+* [Eloquent JavaScript](https://eloquentjavascript.net/)
 
 ## Images
 * [5D Design Process](https://github.com/bootcamp-s19/Resources/blob/master/docs/img/5D-Design-Process.jpg)
 
-## Videos, Articles, and other "Outside of Class" Resources
+## Videos, Articles, and 'other' Resources
 * [Why Learning to Code is Hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
 * [Luke Murray's Blog - How To Learn Better](http://lukecmurray.tumblr.com/post/150290375977/how-to-learn-better-my-advice-after-26-years-in)
 * [How Discovery will make your Software Development Project a Success](https://www.alphalogicinc.com/blog/how-discovery-will-make-your-software-development-project-a-success/)
 * [Learn about Scrum](https://www.scrumalliance.org/learn-about-scrum)
 * [Scrum Values](https://www.scrumalliance.org/learn-about-scrum/scrum-values)
-
+* [Google Fonts](https://fonts.google.com/)
+* [Learn anything in 20 hours](https://lifehacker.com/learn-anything-in-20-hours-with-this-four-step-method-509281792)
+* [10,000 Hours (Outliers - book) ](https://en.wikipedia.org/wiki/Outliers_(book))
 
 ## Bootcamp Software Stack
+* [Heroku](https://devcenter.heroku.com/start)
 * [Bootstrap 4](https://getbootstrap.com/)
 
 ## General Stuff
