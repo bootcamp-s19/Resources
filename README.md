@@ -1,5 +1,5 @@
 # Resources
-All resources for Spring 2019 Bootcamp
+All resources for the Spring 2019 Bootcamp
 
 ## Class Tools
 * [Google Drive](https://drive.google.com/drive/u/0/folders/1zT8cTZpnx1hAReYVhnQ8tPwfiQE41jgL)
@@ -15,6 +15,7 @@ All resources for Spring 2019 Bootcamp
 * [GitHub Best Practices](https://resources.github.com/videos/github-best-practices/)
 
 ## Workflow / Developer Tools
+* [GitHub](https://github.com)
 * [VSCode](https://code.visualstudio.com/)
 * [Chrome Developer Tools](https://www.youtube.com/watch?v=nOEw9iiopwI)
 
