@@ -4,7 +4,7 @@ All resources for the Spring 2019 Bootcamp
 ## Class Tools
 * [Google Drive](https://drive.google.com/drive/u/0/folders/1zT8cTZpnx1hAReYVhnQ8tPwfiQE41jgL)
 * [Slack](https://bootcamp-s19.slack.com/messages/CFJHJR200/)
-* [Github](https://github.com/bootcamp-s19)
+* [Bootcamp GitHub](https://github.com/bootcamp-s19)
 
 ## Practice Code / Learning Tools / Demos
 * [HackerRank](http://hackerrank.com/)
