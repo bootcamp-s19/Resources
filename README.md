@@ -32,6 +32,7 @@ All resources for the Spring 2019 Bootcamp
 * [The Pragmatic Programmer](https://github.com/bootcamp-s19/Resources/blob/master/docs/1999%20-%20The%20Pragmatic%20Programmer.pdf)
 * [Scrum Guide](https://github.com/bootcamp-s19/Resources/blob/master/docs/2017-Scrum-Guide-US.pdf)
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
+* [GitHub Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 
 ## Images
 * [5D Design Process](https://github.com/bootcamp-s19/Resources/blob/master/docs/img/5D-Design-Process.jpg)
