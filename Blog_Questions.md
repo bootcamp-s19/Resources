@@ -6,5 +6,6 @@
 * Find one resource that you think would help everyone else in bootcamp.
 
 ## Weekly
-* What is the number 1 thing that held you back this week? Why?
-* 
+* What is the number one thing that held you back this week? Why?
+* What was an "Aha" moment this week that sparked a new realization or understanding of a topic.
+* Think of another question, and answer it.
