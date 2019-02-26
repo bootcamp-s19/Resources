@@ -30,6 +30,7 @@ All resources for the Spring 2019 Bootcamp
 
 ## Blog Info
 * [Blog Questions](https://github.com/bootcamp-s19/Resources/blob/master/Blog_Questions.md)
+* [Learning GitHub Pages](https://lab.github.com/githubtraining/github-pages)
 * [How to Modify Jekyll with CSS and HTML](https://help.github.com/en/articles/customizing-css-and-html-in-your-jekyll-theme)
 * [Everyones Blogs](#)
 
