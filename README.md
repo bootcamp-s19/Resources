@@ -27,7 +27,11 @@ All resources for the Spring 2019 Bootcamp
 
 ## Documentation
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+## Blog Info
 * [Blog Questions](https://github.com/bootcamp-s19/Resources/blob/master/Blog_Questions.md)
+* [How to Modify Jekyll with CSS and HTML](https://help.github.com/en/articles/customizing-css-and-html-in-your-jekyll-theme)
+* [Everyones Blogs](#)
 
 ## PDFs
 * [The Pragmatic Programmer](https://github.com/bootcamp-s19/Resources/blob/master/docs/1999%20-%20The%20Pragmatic%20Programmer.pdf)
