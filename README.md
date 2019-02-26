@@ -12,6 +12,7 @@ All resources for the Spring 2019 Bootcamp
 * [Harvard Code Lecture Videos](https://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH)
 * [GitLab Courses](https://lab.github.com/courses)
 * [Visualize Git Branching](https://learngitbranching.js.org/)
+* [Typing Practice for Programmers](https://typing.io/)
 
 ## Workflow / Developer Tools
 * [GitHub](https://github.com)
