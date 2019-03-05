@@ -51,7 +51,7 @@ All resources for the Spring 2019 Bootcamp
 * [GitHub Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 * [VSCode Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 * [Terminal Cheat Sheet](https://github.com/0nn0/terminal-mac-cheatsheet)
-* [likedin profile pdf]()
+* [likedin profile pdf](https://github.com/bootcamp-s19/Resources/blob/master/docs/LinkedIn_Onesheets-Conducting-LinkedIn.pdf)
 
 ## Images
 * [5D Design Process](https://github.com/bootcamp-s19/Resources/blob/master/docs/img/5D-Design-Process.jpg)
