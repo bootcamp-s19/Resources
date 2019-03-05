@@ -8,8 +8,9 @@
 ## Weekly  
 
 ### Week 2
+* What is one thing that programmers hate doing?
+* What are some objects that your blog incorporates?
 * 
-
 
 ### Week 1
 * What is the number one thing that held you back this week? Why?
