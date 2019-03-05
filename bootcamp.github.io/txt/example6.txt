@@ -1,0 +1,17 @@
+
+
+var myArray = [1,2,3,4,5,6];
+var l = myArray.length; // 6
+
+
+for(var i = 0; i < l; i++){
+    console.log(i);
+
+    
+}
+for(var i = 0; i < l; i++){
+console.log(myArray[i+1]);
+
+    
+}
+    

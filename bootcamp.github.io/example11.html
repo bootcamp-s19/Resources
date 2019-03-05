@@ -1,0 +1,14 @@
+<script>
+var myvar = "global";
+
+function f() {
+    print(myvar);
+    if (true) {
+        var myvar = "local";
+    }
+    print(myvar);
+}
+
+console.log(f());
+//console.log(myvar);
+</script>

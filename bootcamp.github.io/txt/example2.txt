@@ -1,0 +1,10 @@
+var myVar = 5;
+
+if(myVar == '5'){ 
+  alert("hi");  
+}
+
+switch(myVar){
+  case '5':
+  alert("hi"); 
+}

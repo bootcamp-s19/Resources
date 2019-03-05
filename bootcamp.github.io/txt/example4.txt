@@ -1,0 +1,13 @@
+anonymousFuntion1 = function() {
+	globalvar = 'global scope'; // globally declared because "var" is missing.
+	return localvar;
+}();
+
+alert(globalvar); // alerts 'global scope' because variable within the function is declared globally
+
+anonymousFuntion2 = function(){
+	var localvar = 'local scope'; //locally declared with "var"
+	return localvar;
+}();
+
+alert(localvar); // error "localvar is not defined". there is no globally defined localvar

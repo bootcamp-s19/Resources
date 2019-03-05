@@ -1,0 +1,12 @@
+var myscope = "global";
+
+function showScope(myscope){
+  return myscope; // local scope even though there is a global var with same name
+}
+alert(showScope('local'));
+
+function globalScope(myscope){
+  myscope = window.myscope; // global scope
+  return myscope;
+}
+alert(globalScope('local'));

@@ -1,0 +1,11 @@
+<script>
+
+function f() {
+    var x = "abc";
+    return function() {
+        return x;
+    }
+}
+//g = f();
+document.write(f()());
+</script>
