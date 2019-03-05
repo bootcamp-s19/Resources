@@ -21,9 +21,7 @@ All resources for the Spring 2019 Bootcamp
 * [Pattern Lab](https://patternlab.io/)
 * [Object Playground](http://www.objectplayground.com/)
 * [Chrome devtools/debugging](https://developers.google.com/web/tools/chrome-devtools/javascript/)
-* []()
-
-
+* [Mozilla JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Best Practices
 * [Developer Best Practices](https://www.tutorialspoint.com/developers_best_practices/index.htm)
@@ -33,7 +31,6 @@ All resources for the Spring 2019 Bootcamp
 
 ## Documentation
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* [Mozilla JS]()
 
 ## Scrum / Agile
 * [Agile Examples](https://www.mountaingoatsoftware.com/agile/)
