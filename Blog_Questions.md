@@ -11,6 +11,7 @@
 * What is one thing that programmers hate doing?
 * What are some objects that your blog incorporates?
 * Describe the role of HTML <-> CSS <-> JS
+* offer suggestions to improve at least [three blogs](https://github.com/bootcamp-s19/Resources/blob/master/everyones_blogs.md)
 
 ### Week 1
 * What is the number one thing that held you back this week? Why?
