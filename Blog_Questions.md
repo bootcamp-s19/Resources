@@ -1,5 +1,7 @@
 # Blog Questions
 
+1. make sure your blog is linked to [your homepage](https://github.com/bootcamp-s19/Resources/blob/master/everyones_blogs.md)
+
 ## General Questions for every week
 * What was an "Aha" moment this week that sparked a new realization or understanding of a topic.
 * Name at least one cool thing you learned this week about coding.
