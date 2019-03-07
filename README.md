@@ -22,6 +22,7 @@ All resources for the Spring 2019 Bootcamp
 * [Object Playground](http://www.objectplayground.com/)
 * [Chrome devtools/debugging](https://developers.google.com/web/tools/chrome-devtools/javascript/)
 * [Mozilla JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [ESLint](https://www.youtube.com/watch?v=o2H8kvuwMKE)
 
 ## Best Practices
 * [Developer Best Practices](https://www.tutorialspoint.com/developers_best_practices/index.htm)
@@ -42,7 +43,7 @@ All resources for the Spring 2019 Bootcamp
 * [Blog Questions](https://github.com/bootcamp-s19/Resources/blob/master/Blog_Questions.md)
 * [Learning GitHub Pages](https://lab.github.com/githubtraining/github-pages)
 * [How to Modify Jekyll with CSS and HTML](https://help.github.com/en/articles/customizing-css-and-html-in-your-jekyll-theme)
-* [Everyones Blogs](#)
+* [Everyones Blogs](https://github.com/bootcamp-s19/Resources/blob/master/everyones_blogs.md)
 
 ## PDFs
 * [The Pragmatic Programmer](https://github.com/bootcamp-s19/Resources/blob/master/docs/1999%20-%20The%20Pragmatic%20Programmer.pdf)
@@ -62,6 +63,7 @@ All resources for the Spring 2019 Bootcamp
 * [JS Quiz 3](https://www.tutorialspoint.com/javascript/javascript_online_quiz.htm)
 * [JS Quiz 4](http://davidshariff.com/js-quiz/)
 * [JS Quiz 4 Solutions](https://gist.github.com/MattSurabian/8867307)
+* [JavaScript 30](https://javascript30.com/)
 
 
 ## Videos, Articles, and 'other' Resources
@@ -84,10 +86,11 @@ All resources for the Spring 2019 Bootcamp
 * [Blockly](https://developers.google.com/blockly/)
 * [2D Breakout JS game](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript)
 * [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
+* [Learn to code with me podcast](https://learntocodewith.me/podcast/)
 
 ## Bootcamp Software Stack
 * [Heroku](https://devcenter.heroku.com/start)
-* [JavaScript]()
+* [JavaScript](https://www.javascript.com/)
 * [Bootstrap 4](https://getbootstrap.com/)
 
 ## General Stuff
