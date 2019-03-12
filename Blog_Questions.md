@@ -9,12 +9,16 @@
 
 ## Weekly  
 
-### Week 2 (new)
+### Week 3 (new)
+* What are three ideas you might want to do for your final project
+* Favorite project/exercise of the week? (make sure they are linked on your main page in a projects.html or some sort of portfolio)
+* offer suggestions to improve at least [three blogs](https://github.com/bootcamp-s19/Resources/blob/master/everyones_blogs.md)
+
+### Week 2
 * What is one thing that programmers hate doing?
 * What are some objects that your blog incorporates?
 * Describe the role of HTML <-> CSS <-> JS
-* offer suggestions to improve at least [three blogs](https://github.com/bootcamp-s19/Resources/blob/master/everyones_blogs.md)
-
+  
 ### Week 1
 * What is the number one thing that held you back this week? Why?
 * What is one thing you would like to get better at in bootcamp?

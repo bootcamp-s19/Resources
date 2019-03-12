@@ -1,60 +1,41 @@
+var d = document.getElementById("body_main");
 
-function addValue(placeholder){
-    console.log(placeholder);
-    var symbol = "";
+function makeBox(id_string){
+    //console.log("in MakeBox");
+    //var div = document.createElement("div");
+    //d.appendChild(div);
 
-    if (count %2 == 0){
-
-        symbol = "X";
-    }
-    else{
-        symbol = "O";
-    }
-
-
-
-    return;
-
+    var string_to_add = "<div id=" + id_string + "></div>";
+    d.innerHTML = string_to_add;
+    //console.log("created div");
 }
 
+function putNumberInBox(num_i,id_string){
+    var specific_box = document.getElementById(id_string);
+    var string_to_insert = "";
 
-function myFunction() {
-
-    var str = "";
-    var obj = document.getElementById("main_container");
-
-    for (var i = 0; i < 3; i++) {
-
-        str += "<div class='row' id='test_row'> ";
-        var str2 = "";
-
-        for (var j = 0; j < 3; j++) {
-            
-            var key_ = "index"+ String(i) + String(j);
-            
-            console.log(key_);
-
-            str2 += "<div ";
-
-            str2 += "class='col-xs-2' ";
-
-            str2 += "id='test_col " + key_ + "'";
-
-            str2 += "> ";
-
-            str2 += "<button onclick=addValue( '" + key_ + "' )>click me</button>";
-            //console.log(str2);
-
-            str2 += "</div>";
-            //col
-
-        }
-
-        str += str2;
-        str += "</div>";
-        //row
-
+    for (var i = 0; i<num_i;i++){
+        string_to_insert += i + " ";
     }
 
-    obj.innerHTML = str;
+    specific_box.innerHTML = string_to_insert;
+    
+    //console.log("in putNumberInBox");
+    //console.log(num_i);
+    //console.log(id_string);
+}
+
+function buttonClick(){
+    alert("hi");
+}
+
+function start(){
+    var num_i = 200;
+    var id_string = 'box_hello';
+
+    makeBox(id_string);
+    putNumberInBox(num_i,id_string);
+
+
+    
 }
