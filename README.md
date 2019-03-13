@@ -13,6 +13,8 @@ All resources for the Spring 2019 Bootcamp
 * [GitLab Courses](https://lab.github.com/courses)
 * [Visualize Git Branching](https://learngitbranching.js.org/)
 * [Typing Practice for Programmers](https://typing.io/)
+* [using js to create html](https://codeburst.io/learn-how-to-create-html-elements-with-plain-javascript-4f1323f96252)
+* [using fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
 ## Workflow / Developer Tools
 * [GitHub](https://github.com)
@@ -87,6 +89,7 @@ All resources for the Spring 2019 Bootcamp
 * [2D Breakout JS game](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript)
 * [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
 * [Learn to code with me podcast](https://learntocodewith.me/podcast/)
+* [bootstrap card flip](https://mdbootstrap.com/plugins/jquery/card-animations/)
 
 ## Bootcamp Software Stack
 * [Heroku](https://devcenter.heroku.com/start)
