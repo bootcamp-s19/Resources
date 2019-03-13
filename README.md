@@ -13,8 +13,6 @@ All resources for the Spring 2019 Bootcamp
 * [GitLab Courses](https://lab.github.com/courses)
 * [Visualize Git Branching](https://learngitbranching.js.org/)
 * [Typing Practice for Programmers](https://typing.io/)
-* [using js to create html](https://codeburst.io/learn-how-to-create-html-elements-with-plain-javascript-4f1323f96252)
-* [using fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
 ## Workflow / Developer Tools
 * [GitHub](https://github.com)
@@ -23,8 +21,8 @@ All resources for the Spring 2019 Bootcamp
 * [Pattern Lab](https://patternlab.io/)
 * [Object Playground](http://www.objectplayground.com/)
 * [Chrome devtools/debugging](https://developers.google.com/web/tools/chrome-devtools/javascript/)
-* [Mozilla JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [ESLint](https://www.youtube.com/watch?v=o2H8kvuwMKE)
+* [Heroku](https://devcenter.heroku.com/start)
 
 ## Best Practices
 * [Developer Best Practices](https://www.tutorialspoint.com/developers_best_practices/index.htm)
@@ -37,6 +35,8 @@ All resources for the Spring 2019 Bootcamp
 
 ## Scrum / Agile
 * [Agile Examples](https://www.mountaingoatsoftware.com/agile/)
+* [Learn about Scrum](https://www.scrumalliance.org/learn-about-scrum)
+* [Scrum Values](https://www.scrumalliance.org/learn-about-scrum/scrum-values)
 
 ## Object Oriented Programming
 * [Object Oriented JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
@@ -59,7 +59,20 @@ All resources for the Spring 2019 Bootcamp
 ## Images
 * [5D Design Process](https://github.com/bootcamp-s19/Resources/blob/master/docs/img/5D-Design-Process.jpg)
 
-## Learn JS
+## Learn the software stack
+
+### Vue.js
+* [learn Vue.js](https://www.vuemastery.com/)
+* [Vue intro](https://www.vuemastery.com/courses/intro-to-vue-js/)
+* [Vue instance](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
+* [Vue.js Documentation](https://vuejs.org/v2/guide/)
+
+### JS
+* [JavaScript](https://www.javascript.com/)
+* [Mozilla JS Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Using JS to create HTML](https://codeburst.io/learn-how-to-create-html-elements-with-plain-javascript-4f1323f96252)
+* [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+* [JS Pro Tips](https://www.youtube.com/watch?v=Mus_vwhTCq0)
 * [JS Quiz 1](http://perfectionkills.com/javascript-quiz/)
 * [JS Quiz 2](https://www.javatpoint.com/javascript-quiz)
 * [JS Quiz 3](https://www.tutorialspoint.com/javascript/javascript_online_quiz.htm)
@@ -67,20 +80,35 @@ All resources for the Spring 2019 Bootcamp
 * [JS Quiz 4 Solutions](https://gist.github.com/MattSurabian/8867307)
 * [JavaScript 30](https://javascript30.com/)
 
+### Bootstrap
+* [Bootstrap 4 Documentation](https://getbootstrap.com/)
+* [Card Flip](https://mdbootstrap.com/plugins/jquery/card-animations/)
+* []()
+* []()
+* []()
+
+### CSS
+* []()
+* []()
+* []()
+* []()
+
+### HTML
+* []()
+* []()
+* []()
+* []()
+* [Alternatives to the div tag](https://medium.com/web-dev-basics/7-alternatives-to-the-div-html-tag-7c888c7b5036)
 
 ## Videos, Articles, and 'other' Resources
 * [Why Learning to Code is Hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
 * [Luke Murray's Blog - How To Learn Better](http://lukecmurray.tumblr.com/post/150290375977/how-to-learn-better-my-advice-after-26-years-in)
 * [How Discovery will make your Software Development Project a Success](https://www.alphalogicinc.com/blog/how-discovery-will-make-your-software-development-project-a-success/)
-* [Learn about Scrum](https://www.scrumalliance.org/learn-about-scrum)
-* [Scrum Values](https://www.scrumalliance.org/learn-about-scrum/scrum-values)
 * [Google Fonts](https://fonts.google.com/)
 * [Learn anything in 20 hours](https://lifehacker.com/learn-anything-in-20-hours-with-this-four-step-method-509281792)
 * [10,000 Hours (Outliers - book) ](https://en.wikipedia.org/wiki/Outliers_(book))
 * [VSCode Extentions (1)](https://youtu.be/rH1RTwaAeGc)
 * [VSCode Extentions (2)](https://youtu.be/u21W_tfPVrY)
-* [JS Pro Tips](https://www.youtube.com/watch?v=Mus_vwhTCq0)
-* [Alternatives to the div tag](https://medium.com/web-dev-basics/7-alternatives-to-the-div-html-tag-7c888c7b5036)
 * [page speed insights](https://developers.google.com/speed/pagespeed/insights/)
 * [bulk image resizing](https://www.birme.net/?target_width=600&target_height=468)
 * [reroute keyboard keys](https://pqrs.org/osx/karabiner/)
@@ -89,12 +117,6 @@ All resources for the Spring 2019 Bootcamp
 * [2D Breakout JS game](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript)
 * [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
 * [Learn to code with me podcast](https://learntocodewith.me/podcast/)
-* [bootstrap card flip](https://mdbootstrap.com/plugins/jquery/card-animations/)
-
-## Bootcamp Software Stack
-* [Heroku](https://devcenter.heroku.com/start)
-* [JavaScript](https://www.javascript.com/)
-* [Bootstrap 4](https://getbootstrap.com/)
 
 ## General Stuff
 * [Parking Nearby](https://www.awesomeinc.org/parking/)
