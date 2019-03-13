@@ -73,6 +73,7 @@ All resources for the Spring 2019 Bootcamp
 * [Using JS to create HTML](https://codeburst.io/learn-how-to-create-html-elements-with-plain-javascript-4f1323f96252)
 * [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 * [JS Pro Tips](https://www.youtube.com/watch?v=Mus_vwhTCq0)
+* [Array vs Object](https://www.metaltoad.com/blog/javascript-understanding-objects-vs-arrays-and-when-use-them-part-1)
 * [JS Quiz 1](http://perfectionkills.com/javascript-quiz/)
 * [JS Quiz 2](https://www.javatpoint.com/javascript-quiz)
 * [JS Quiz 3](https://www.tutorialspoint.com/javascript/javascript_online_quiz.htm)
