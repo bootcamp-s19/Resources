@@ -9,10 +9,14 @@
 
 ## Weekly  
 
-### Week 3 (new)
+### Week 4 (new)
+* list a some ideas that without Vue, would take you a long time to code
+* find one emerging javascript tool that you would like to know more about
+* offer suggestions to improve at least [three blogs](https://github.com/bootcamp-s19/Resources/blob/master/everyones_blogs.md)
+
+### Week 3
 * What are three ideas you might want to do for your final project
 * Favorite project/exercise of the week? (make sure they are linked on your main page in a projects.html or some sort of portfolio)
-* offer suggestions to improve at least [three blogs](https://github.com/bootcamp-s19/Resources/blob/master/everyones_blogs.md)
 
 ### Week 2
 * What is one thing that programmers hate doing?
