@@ -9,10 +9,15 @@
 
 ## Weekly  
 
-### Week 4 (new)
-* list a some ideas that without Vue, would take you a long time to code
-* find one emerging javascript tool that you would like to know more about
-* offer suggestions to improve at least [three blogs](https://github.com/bootcamp-s19/Resources/blob/master/everyones_blogs.md)
+### Week 5 (new)
+* How do you feel now (week 5) compared to when you started?
+* What did you learn from working in a group this week?
+* Why haven't you answered these questions on your blog page yet?
+* Offer suggestions to improve at least [three blogs](https://github.com/bootcamp-s19/Resources/blob/master/everyones_blogs.md)
+
+### Week 4
+* List a some ideas that without Vue, would take you a long time to code
+* Find one emerging javascript tool that you would like to know more about
 
 ### Week 3
 * What are three ideas you might want to do for your final project
