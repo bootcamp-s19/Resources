@@ -9,7 +9,13 @@
 
 ## Weekly  
 
-### Week 5 (new)
+### Week 6 (new)
+* How has learning PHP been? What are some similartities you can see with JS; differences? 
+* What if you had started with PHP instead of JS
+* Are there any exercises you think would be improved if you refactored them to PHP from JS? Do you plan to?
+* Look back on the old questions to see if any of them would be good to answer this week compared to week 1.
+
+### Week 5
 * How do you feel now (week 5) compared to when you started?
 * What did you learn from working in a group this week?
 * Why haven't you answered these questions on your blog page yet?
