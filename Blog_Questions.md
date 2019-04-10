@@ -9,11 +9,16 @@
 
 ## Weekly  
 
-### Week 6 (new)
+### Week 8 (new)
+* what is one thing that you love about vue or laravel that you used to hate/ didn't understand how to use
+* biggest win this week!
+* 
+* Look back on the old questions to see if any of them would be good to answer this week compared to week 1.
+
+### Week 6
 * How has learning PHP been? What are some similartities you can see with JS; differences? 
 * What if you had started with PHP instead of JS
 * Are there any exercises you think would be improved if you refactored them to PHP from JS? Do you plan to?
-* Look back on the old questions to see if any of them would be good to answer this week compared to week 1.
 
 ### Week 5
 * How do you feel now (week 5) compared to when you started?
