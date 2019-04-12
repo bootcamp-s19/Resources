@@ -12,7 +12,7 @@
 ### Week 8 (new)
 * what is one thing that you love about vue or laravel that you used to hate/ didn't understand how to use
 * biggest win this week!
-* 
+* find one JS library or API you think you might use for your final project
 * Look back on the old questions to see if any of them would be good to answer this week compared to week 1.
 
 ### Week 6
