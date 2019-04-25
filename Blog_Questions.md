@@ -10,10 +10,15 @@
 ## Weekly  
 
 ### Week 8 (new)
+* what unique js or php library will you implement for your final project?
+* What cool new features have you learned about from the languages and frameworks you already know that will improve your workflow / add slick features to your final project
+* how many jobs have you applied to? have you been refining your resume/cover letter for the job? have you been trying to learn the code that the specific company uses? added any new projects to your resume/github yet?
+* Look back on the old questions to see if any of them would be good to answer this week compared to week 1.
+
+### Week 8
 * what were your main takeaways from the career fair?
 * after making it through the tech stack, where do you think your current gaps are
 * Bourbon to win? Or Bourbon Toulouse?
-* Look back on the old questions to see if any of them would be good to answer this week compared to week 1.
 
 ### Week 7
 * what is one thing that you love about vue or laravel that you used to hate/ didn't understand how to use
